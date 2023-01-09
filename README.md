@@ -89,7 +89,7 @@ It is a type of ensemble learning technique of regression that adds the results 
 Extra Tree Classifier algorithm never performs bootstrap aggregation as in the random forest. This means, it takes a random subset of data without any replacement. Hence, nodes are always split on random splits but not on best splits.
 In Extra Tree Classifier algorithm randomness doesn’t come from bootstrap aggregating but comes from the random splitting of the data.
 
-Fig. ExtraRegressor
+
 
 **Libraries used for Programming**
 
