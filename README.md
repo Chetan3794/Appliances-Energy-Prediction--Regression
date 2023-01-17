@@ -21,7 +21,7 @@
 
 <h4>Input Files:</h4>
 <ul>
-  <li><b>data_application_energy.csv</b> - Input dataset having information about different shows/movies available on Netflix.</li>
+  <li><b>data_application_energy.csv</b> - Input dataset having information about dependant and independant factors causing energy consumption</li>
 </ul>
 
 
