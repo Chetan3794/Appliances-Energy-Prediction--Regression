@@ -3,9 +3,10 @@
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 <p align="center"> 
-
+	
 ![image](https://user-images.githubusercontent.com/114068950/212836653-3d003162-ea5b-496b-8187-b2491fb3209b.png)
 </p>
+
 
 <p> Experimental data used to create regression models of appliances energy use in a low energy building</p>
 
@@ -72,7 +73,7 @@ The dataset collected contain various information regarding features by which en
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
-# Training Process:
+# :book:Training Process:
 We have used following 5 regression techniques to train the data:
 
 1] LASSO Regression:
@@ -93,7 +94,7 @@ This regression technique calculates the difference between the current predicte
 It is a type of ensemble learning technique of regression that adds the results of different de-correlated decision trees which are similar to Random Forest Classifier. Extra Tree can also achieve a good or better prediction than the random forest.
 
 
-# Steps involved:
+# :book:Steps involved:
 The full code for this article can be found here. It is implemented in Python and uses various clustering algorithms. Below is a short description of the general approach I used:
 
 1] Data Cleansing and Preprocessing: 
@@ -114,7 +115,7 @@ Following methodology has been followed to train and test the model.
 
 •The properties of the regressor , Name, timining and score for training and testing set will be stored in a dictionary variable as key-value pairs.
 
-# Conclusion
+# :book: Conclusion
 
 The top 3 important features are humidity attributes, which leads to the conclusion that humidity affects power consumption more than temperature. Windspeed is least important as the speed of wind doesn’t affect power consumption inside the house. So controlling humidity inside the house may lead to energy savings.
 
