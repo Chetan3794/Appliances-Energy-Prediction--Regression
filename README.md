@@ -133,7 +133,7 @@ The top 3 important features are humidity attributes, which leads to the conclus
 # 📜 Credits
 Chetan Chavan | Aspiring Data Scientist
 
-linkedin.com/in/chetanchavan3794
+linkedin.com/in/chetanchavan3794 
 
 
 # 📚 References 
