@@ -68,9 +68,9 @@ The dataset collected contain various information regarding features by which en
 *	Pressure : (from Chievres weather station), in mm Hg
 *	Wind speed: (from Chievres weather station), in m/s
 *	Visibility :(from Chievres weather station), in km
-*	Rv1 :Random variable 1, non-dimensional[1]
-*	Rv2 :Random variable 2, non-dimensional[1]
-*	Appliances : Total energy used by appliances, in Wh[1]
+*	Rv1 :Random variable 1, non-dimensional
+*	Rv2 :Random variable 2, non-dimensional
+*	Appliances : Total energy used by appliances, in Wh
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
