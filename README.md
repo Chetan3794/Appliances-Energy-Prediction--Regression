@@ -115,6 +115,14 @@ Following methodology has been followed to train and test the model.
 
 * The properties of the regressor , Name, timining and score for training and testing set will be stored in a dictionary variable as key-value pairs.
 
+# :book: Results
+
+![image](https://user-images.githubusercontent.com/114068950/214806882-aaf983dc-a60c-4149-bb80-97af73bf1f09.png)
+
+* It is clearly seen that best results for test set is being given by Extra Tree Regressor with R2 score of 0.599255. Least RMSE score is also by Extra Tree Regressor 0.612780
+
+* Using hyperparameter tuning the R2 score can be improved from 0.59 to 0.60 of the Test set. Test set RMSE score is 0.60 which is get improved from 0.61 achieved using hyperparameter tuning.
+
 # :book: Conclusion
 
 The top 3 important features are humidity attributes, which leads to the conclusion that humidity affects power consumption more than temperature. Windspeed is least important as the speed of wind doesn’t affect power consumption inside the house. So controlling humidity inside the house may lead to energy savings.
