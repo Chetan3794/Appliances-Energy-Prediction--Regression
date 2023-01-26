@@ -36,6 +36,9 @@ As the energy crisis increasing day by day causes various factors to think for i
 <h2> :book: Problem Statement</h2>
 We have to predict Appliance energy consumption for a house based on factors like temperature, humidity & pressure . In order to achieve this, we need to develop a supervised learning model using regression algorithms. Regression algorithms are used as data consist of continuous features and there are no identification of appliances in dataset.
 
+* Which algorithm is best suited to build regression model in terms of R2 score and RMSE score?
+* Measure the improvement using hyperparameter tunning
+
 <h2> :book: Data Summery</h2>
 The dataset collected contain various information regarding features by which energy is being used. The features incorporated by temperature, humidity, wind speed, pressure, etc. Our main target is to analyze the data and predict the energy consumed by the house using the given dataset. For the same, we need to develop a supervised machine learning model based on regression approach.  Illustration of the some major feature contained is given below:
 
