@@ -96,6 +96,14 @@ This regression technique calculates the difference between the current predicte
 **5] ExtraTree-regressor:**
 It is a type of ensemble learning technique of regression that adds the results of different de-correlated decision trees which are similar to Random Forest Classifier. Extra Tree can also achieve a good or better prediction than the random forest.
 
+# Random Forest Algorithm:
+
+Random Forest is a popular machine learning algorithm that belongs to the supervised learning technique. It can be used for both Classification and Regression problems in ML. It is based on the concept of ensemble learning, which is a process of combining multiple classifiers to solve a complex problem and to improve the performance of the model.
+As the name suggests, "Random Forest is a classifier that contains a number of decision trees on various subsets of the given dataset and takes the average to improve the predictive accuracy of that dataset." Instead of relying on one decision tree, the random forest takes the prediction from each tree and based on the majority votes of predictions, and it predicts the final output.
+The greater number of trees in the forest leads to higher accuracy and prevents the problem of overfitting.
+
+![image](https://user-images.githubusercontent.com/114068950/215052336-d32b38a7-1111-4436-9236-92c6fbd57515.png)
+
 
 # :book:Steps involved:
 The full code for this article can be found here. It is implemented in Python and uses various clustering algorithms. Below is a short description of the general approach I used:
